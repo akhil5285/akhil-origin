@@ -1,7 +1,0 @@
-welcome to Devops Git
-Guest Lecturer:
-Sunil
-Students:
-Akhil jeedi
-Sireesha chelluri
-
