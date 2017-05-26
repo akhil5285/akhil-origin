@@ -5,7 +5,7 @@
 OSNAME=$1
 if [ $OSNAME = "CENTOS" ]
  then 
-  eco "YOU HAVE SELECTED $OSNAME"
+  echo "YOU HAVE SELECTED $OSNAME"
 echo "USE apt-get-y update"
   elif [ $OSNAME = "SOLARIS" ]
 then 
